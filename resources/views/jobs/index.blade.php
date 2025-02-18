@@ -15,7 +15,7 @@
     </form>
 
     <div class="job-list">
-        <h2>Job Listings</h2>
+        <h2>Job Listing</h2>
         <table id="jobTable">
             <thead>
                 <tr>
